@@ -1,0 +1,15 @@
+C:\PROJECTS\FAMILY TREE\Geektrust_FamilyTreeChallenge\bin\Debug\netcoreapp2.1\InputFiles\People.txt
+C:\PROJECTS\FAMILY TREE\Geektrust_FamilyTreeChallenge\bin\Debug\netcoreapp2.1\InputFiles\Relationships.txt
+C:\PROJECTS\FAMILY TREE\Geektrust_FamilyTreeChallenge\bin\Debug\netcoreapp2.1\InputFiles\Testcase.txt
+C:\PROJECTS\FAMILY TREE\Geektrust_FamilyTreeChallenge\bin\Debug\netcoreapp2.1\Geektrust_FamilyTreeChallenge.deps.json
+C:\PROJECTS\FAMILY TREE\Geektrust_FamilyTreeChallenge\bin\Debug\netcoreapp2.1\Geektrust_FamilyTreeChallenge.runtimeconfig.json
+C:\PROJECTS\FAMILY TREE\Geektrust_FamilyTreeChallenge\bin\Debug\netcoreapp2.1\Geektrust_FamilyTreeChallenge.runtimeconfig.dev.json
+C:\PROJECTS\FAMILY TREE\Geektrust_FamilyTreeChallenge\bin\Debug\netcoreapp2.1\Geektrust_FamilyTreeChallenge.dll
+C:\PROJECTS\FAMILY TREE\Geektrust_FamilyTreeChallenge\bin\Debug\netcoreapp2.1\Geektrust_FamilyTreeChallenge.pdb
+C:\PROJECTS\FAMILY TREE\Geektrust_FamilyTreeChallenge\obj\Debug\netcoreapp2.1\Geektrust_FamilyTreeChallenge.csprojAssemblyReference.cache
+C:\PROJECTS\FAMILY TREE\Geektrust_FamilyTreeChallenge\obj\Debug\netcoreapp2.1\Geektrust_FamilyTreeChallenge.AssemblyInfoInputs.cache
+C:\PROJECTS\FAMILY TREE\Geektrust_FamilyTreeChallenge\obj\Debug\netcoreapp2.1\Geektrust_FamilyTreeChallenge.AssemblyInfo.cs
+C:\PROJECTS\FAMILY TREE\Geektrust_FamilyTreeChallenge\obj\Debug\netcoreapp2.1\Geektrust_FamilyTreeChallenge.csproj.CoreCompileInputs.cache
+C:\PROJECTS\FAMILY TREE\Geektrust_FamilyTreeChallenge\obj\Debug\netcoreapp2.1\Geektrust_FamilyTreeChallenge.dll
+C:\PROJECTS\FAMILY TREE\Geektrust_FamilyTreeChallenge\obj\Debug\netcoreapp2.1\Geektrust_FamilyTreeChallenge.pdb
+C:\PROJECTS\FAMILY TREE\Geektrust_FamilyTreeChallenge\obj\Debug\netcoreapp2.1\Geektrust_FamilyTreeChallenge.genruntimeconfig.cache

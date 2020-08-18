@@ -1,0 +1,3 @@
+﻿ADD_CHILD Asva Vani Female
+GET_RELATIONSHIP Vasa Siblings
+GET_RELATIONSHIP Atya Sister-In-Law
